@@ -1,0 +1,84 @@
+.main{
+  background-color: #e7767b;
+  color: black;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.main > img{
+  width:50px;
+}
+.main >h1{
+  font-size: 1.1rem;
+  font-weight: 500;
+  
+}
+.a1{
+    display: flex;
+   margin-right: 100px;
+}
+.l1{
+  display: flex;
+  padding: 30px;
+}
+.l1 > .img1{
+  margin-left: 300px;
+  border-radius: 20px;
+}
+.l2{
+  display: flex;
+  height: 40px; 
+  padding: 10px;
+  margin-top: 20px;
+  margin-right: 200px; 
+  
+}
+.l2 > span{
+  margin-top: 10px;
+}
+.l2 > p{
+  margin-top:80px;
+  margin-left: -70px;
+}
+.l1 >.img2{
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 300px;
+}
+.l3{
+  display: flex;
+  height: 40px;
+}
+.l3 > p{
+  margin-left: -70px;
+  padding: 10px;
+  margin-top: 80px;
+  margin-right: 200px;
+  margin-left: -50px;
+}
+.l3 > span{
+  margin-top: 10px;
+}
+.l4{
+  display: flex;
+  height: 40px;
+  margin-left: 20px;
+}
+.l4 > p{
+ 
+  padding: 10px;
+  margin-top: 80px;
+  margin-right: 200px;
+  margin-left: -90px;
+}
+.l4 > span{
+  margin-top: 10px;
+}
+.l5 >.img3{
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 300px;
+}
+
+
+
